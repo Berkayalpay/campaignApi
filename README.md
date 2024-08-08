@@ -1,4 +1,4 @@
-Campaign API
+CAMPAIGN API
 Campaign API is a RESTful web service built using Java Spring Boot, PostgreSQL, and Maven. It provides endpoints for managing campaign data, including creating, reading, updating, and deleting campaigns. The API follows REST standards and is designed to be easily extendable and maintainable.
 
 Features
